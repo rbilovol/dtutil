@@ -1,0 +1,8 @@
+		dtutil
+
+The "dtutil" is a tool written by me for Flattened Device Tree (FDT)
+blobs decoding.
+It is very simple and ugly in some places but works fine and
+was very useful during FDT support implementation in custom
+bootloader.
+Feel use/modife/share it (as it is licensed under GPLv2)
